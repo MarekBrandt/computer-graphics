@@ -1,0 +1,13 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  GK.cpp
+D:\Grafika\lab3graf\GK.cpp(289,79): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(289,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(289,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(292,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(292,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(292,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(296,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(296,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(300,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Grafika\lab3graf\GK.cpp(300,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GK.vcxproj -> D:\Grafika\lab3graf\Debug\GK.exe

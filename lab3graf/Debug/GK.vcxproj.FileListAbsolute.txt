@@ -1,0 +1,2 @@
+D:\Grafika\lab3graf\Debug\GK.exe
+D:\Grafika\lab3graf\Debug\GK.pdb
